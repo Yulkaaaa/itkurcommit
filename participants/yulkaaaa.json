@@ -1,0 +1,13 @@
+{
+  "name": "Юля",
+  "github": "@Yulkaaaa",
+  "birthDate": "13.12.2006",
+  "direction": "Frontend",
+  "skills": [
+    "HTML",
+    "CSS"
+  ],
+  "fact": "У меня есть пёс. Его зовут Паркер",
+  "projectTitle": "",
+  "projectDescription": ""
+}
